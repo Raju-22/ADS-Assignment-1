@@ -1,0 +1,137 @@
+Force Name,CSP Name,Offence Description,Offence Group,Offence Subgroup,OffenceCode,2015/16,2016/17,2017/18,2018/19,2019/20,2020/21,2021/22
+West Yorkshire,Calderdale,Arson endangering life,Criminal damage and arson,Arson,56A,12,13,16,9,10,18,17
+West Yorkshire,Calderdale,Arson not endangering life,Criminal damage and arson,Arson,56B,122,100,100,93,96,95,92
+West Yorkshire,Calderdale,Criminal damage to a building other than a dwelling,Criminal damage and arson,Criminal damage,58B,296,381,301,226,225,166,216
+West Yorkshire,Calderdale,Criminal damage to a dwelling,Criminal damage and arson,Criminal damage,58A,654,768,723,656,642,687,662
+West Yorkshire,Calderdale,Criminal damage to a vehicle,Criminal damage and arson,Criminal damage,58C,953,1123,1011,830,778,723,836
+West Yorkshire,Calderdale,Other criminal damage,Criminal damage and arson,Criminal damage,58D,480,544,573,579,601,552,597
+West Yorkshire,Calderdale,Racially or religiously aggravated criminal damage,Criminal damage and arson,Criminal damage,58J,20,8,10,5,5,7,10
+West Yorkshire,Calderdale,Other drug offences,Drug offences,Possession of drugs,92C,1,0,0,2,3,1,0
+West Yorkshire,Calderdale,Possession of controlled drugs (Cannabis),Drug offences,Possession of drugs,92E,165,199,185,225,305,350,358
+West Yorkshire,Calderdale,Possession of controlled drugs (excl. Cannabis),Drug offences,Possession of drugs,92D,66,86,109,124,131,121,169
+West Yorkshire,Calderdale,Trafficking in controlled drugs,Drug offences,Trafficking of drugs,92A,102,146,125,143,184,186,190
+West Yorkshire,Calderdale,Absconding from lawful custody,Miscellaneous crimes,Miscellaneous crimes,80,2,3,1,4,3,6,3
+West Yorkshire,Calderdale,Aiding suicide,Miscellaneous crimes,Miscellaneous crimes,76,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Bail offences,Miscellaneous crimes,Miscellaneous crimes,83,0,0,0,0,1,0,0
+West Yorkshire,Calderdale,Bigamy,Miscellaneous crimes,Miscellaneous crimes,26,1,0,1,2,0,0,0
+West Yorkshire,Calderdale,Concealing an infant death close to birth,Miscellaneous crimes,Miscellaneous crimes,15,0,0,1,1,0,0,0
+West Yorkshire,Calderdale,Dangerous driving,Miscellaneous crimes,Miscellaneous crimes,802,32,41,55,68,73,71,80
+West Yorkshire,Calderdale,"Disclosure, obstruction, false or misleading statements etc",Miscellaneous crimes,Miscellaneous crimes,95,0,2,1,1,4,0,23
+West Yorkshire,Calderdale,Exploitation of prostitution,Miscellaneous crimes,Miscellaneous crimes,24,1,0,0,1,0,0,2
+West Yorkshire,Calderdale,Forgery or use of false drug prescription,Miscellaneous crimes,Miscellaneous crimes,60,0,0,0,1,0,0,0
+West Yorkshire,Calderdale,"Fraud, forgery etc associated with vehicle or driver records",Miscellaneous crimes,Miscellaneous crimes,814,0,3,2,1,7,8,0
+West Yorkshire,Calderdale,"Going equipped for stealing, etc",Miscellaneous crimes,Miscellaneous crimes,33,9,11,13,16,14,15,14
+West Yorkshire,Calderdale,Handling stolen goods,Miscellaneous crimes,Miscellaneous crimes,54,8,14,9,12,20,14,10
+West Yorkshire,Calderdale,"Making, supplying or possessing articles for use in fraud",Miscellaneous crimes,Miscellaneous crimes,33A,6,1,1,0,3,2,1
+West Yorkshire,Calderdale,Obscene publications etc,Miscellaneous crimes,Miscellaneous crimes,86,106,73,117,155,127,200,175
+West Yorkshire,Calderdale,Offender Management Act offences,Miscellaneous crimes,Miscellaneous crimes,69,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Other forgery,Miscellaneous crimes,Miscellaneous crimes,61,28,24,36,38,54,16,15
+West Yorkshire,Calderdale,Other notifiable offences,Miscellaneous crimes,Miscellaneous crimes,99,19,25,14,23,20,22,23
+West Yorkshire,Calderdale,Perjury,Miscellaneous crimes,Miscellaneous crimes,67,1,1,0,0,0,0,0
+West Yorkshire,Calderdale,Perverting the course of justice,Miscellaneous crimes,Miscellaneous crimes,79,36,36,46,53,57,42,52
+West Yorkshire,Calderdale,Possession of false documents,Miscellaneous crimes,Miscellaneous crimes,61A,2,0,0,0,0,0,0
+West Yorkshire,Calderdale,Profiting from or concealing knowledge of the proceeds of crime,Miscellaneous crimes,Miscellaneous crimes,38,3,9,14,13,10,15,26
+West Yorkshire,Calderdale,Soliciting for the purposes of prostitution,Miscellaneous crimes,Miscellaneous crimes,27,0,1,0,0,0,0,0
+West Yorkshire,Calderdale,Threat or possession with intent to commit criminal damage,Miscellaneous crimes,Miscellaneous crimes,59,100,166,229,236,217,218,193
+West Yorkshire,Calderdale,Wildlife,Miscellaneous crimes,Miscellaneous crimes,96,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Other firearms offences,Possession of weapons offences,Possession of weapons offences,81,0,0,0,2,0,11,4
+West Yorkshire,Calderdale,Other knives offences,Possession of weapons offences,Possession of weapons offences,90,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Possession of article with blade or point,Possession of weapons offences,Possession of weapons offences,10D,24,41,48,52,66,57,94
+West Yorkshire,Calderdale,Possession of firearms offences,Possession of weapons offences,Possession of weapons offences,10B,3,8,12,14,15,7,9
+West Yorkshire,Calderdale,Possession of firearms with intent,Possession of weapons offences,Possession of weapons offences,10A,6,19,15,7,11,12,17
+West Yorkshire,Calderdale,Possession of other weapons,Possession of weapons offences,Possession of weapons offences,10C,36,65,55,81,72,65,86
+West Yorkshire,Calderdale,Other offences against the State or public order,Public order offences,Public order offences,66,232,284,286,302,303,265,337
+West Yorkshire,Calderdale,"Public fear, alarm or distress",Public order offences,Public order offences,9A,693,1138,1446,2122,2050,2319,3041
+West Yorkshire,Calderdale,"Racially or religiously aggravated public fear, alarm or distress",Public order offences,Public order offences,9B,131,159,176,249,197,221,239
+West Yorkshire,Calderdale,Violent disorder,Public order offences,Public order offences,62A,2,7,8,5,2,3,2
+West Yorkshire,Calderdale,Robbery of business property,Robbery,Robbery of business property,34A,13,30,21,25,16,9,16
+West Yorkshire,Calderdale,Robbery of personal property,Robbery,Robbery of personal property,34B,112,140,180,231,202,130,124
+West Yorkshire,Calderdale,Abuse of children through sexual exploitation,Sexual offences,Other sexual offences,71,1,1,6,7,5,7,10
+West Yorkshire,Calderdale,Abuse of position of trust of a sexual nature,Sexual offences,Other sexual offences,73,0,0,1,0,1,2,0
+West Yorkshire,Calderdale,Causing sexual activity without consent,Sexual offences,Other sexual offences,22A,0,5,4,8,10,8,13
+West Yorkshire,Calderdale,Exposure and voyeurism,Sexual offences,Other sexual offences,88E,13,28,34,26,31,23,59
+West Yorkshire,Calderdale,Incest or familial sexual offences,Sexual offences,Other sexual offences,23,9,5,10,4,8,4,9
+West Yorkshire,Calderdale,Other miscellaneous sexual offences,Sexual offences,Other sexual offences,88C,0,3,1,1,3,0,8
+West Yorkshire,Calderdale,Sexual activity etc with a person with a mental disorder,Sexual offences,Other sexual offences,70,1,5,0,3,1,0,0
+West Yorkshire,Calderdale,Sexual activity involving a child under 13,Sexual offences,Other sexual offences,21,55,55,104,82,91,70,85
+West Yorkshire,Calderdale,Sexual activity involving child under 16,Sexual offences,Other sexual offences,22B,92,81,83,95,72,96,81
+West Yorkshire,Calderdale,Sexual assault on a female aged 13 and over,Sexual offences,Other sexual offences,20A,90,135,175,148,154,107,204
+West Yorkshire,Calderdale,Sexual assault on a female child under 13,Sexual offences,Other sexual offences,20B,39,24,28,31,32,35,39
+West Yorkshire,Calderdale,Sexual assault on a male aged 13 and over,Sexual offences,Other sexual offences,17A,12,24,33,23,27,28,32
+West Yorkshire,Calderdale,Sexual assault on a male child under 13,Sexual offences,Other sexual offences,17B,8,13,10,22,14,4,5
+West Yorkshire,Calderdale,Sexual grooming,Sexual offences,Other sexual offences,88A,5,5,31,32,24,23,35
+West Yorkshire,Calderdale,Trafficking for sexual exploitation,Sexual offences,Other sexual offences,72,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Unnatural sexual offences,Sexual offences,Other sexual offences,88D,0,1,0,0,1,0,0
+West Yorkshire,Calderdale,Rape of a Female - Multiple Undefined Offenders,Sexual offences,Rape offences,19J,0,0,0,0,9,6,1
+West Yorkshire,Calderdale,Rape of a female aged 16 and over,Sexual offences,Rape offences,19C,99,100,157,244,203,240,207
+West Yorkshire,Calderdale,Rape of a female child under 13,Sexual offences,Rape offences,19E,31,22,29,44,27,52,29
+West Yorkshire,Calderdale,Rape of a female child under 16,Sexual offences,Rape offences,19D,16,32,73,80,81,81,70
+West Yorkshire,Calderdale,Rape of a Male - Multiple Undefined Offenders,Sexual offences,Rape offences,19K,0,0,0,0,3,2,0
+West Yorkshire,Calderdale,Rape of a male aged 16 and over,Sexual offences,Rape offences,19F,5,6,18,12,23,9,10
+West Yorkshire,Calderdale,Rape of a male child under 13,Sexual offences,Rape offences,19H,7,8,54,20,25,15,9
+West Yorkshire,Calderdale,Rape of a male child under 16,Sexual offences,Rape offences,19G,4,2,6,2,19,13,5
+West Yorkshire,Calderdale,Theft or unauthorised taking of a pedal cycle,Theft offences,Bicycle theft,44,114,125,103,84,120,79,77
+West Yorkshire,Calderdale,Aggravated burglary in a dwelling (outcome only),Theft offences,Domestic burglary,29,9,9,0,0,0,0,0
+West Yorkshire,Calderdale,Aggravated Burglary Residential,Theft offences,Domestic burglary,29A,0,0,14,22,13,14,11
+West Yorkshire,Calderdale,Attempted burglary in a dwelling (outcome only),Theft offences,Domestic burglary,28B,217,270,0,0,0,0,0
+West Yorkshire,Calderdale,Attempted Burglary Residential,Theft offences,Domestic burglary,28F,0,0,417,404,299,161,173
+West Yorkshire,Calderdale,Attempted distraction burglary in a dwelling (outcome only),Theft offences,Domestic burglary,28D,1,4,0,0,0,0,0
+West Yorkshire,Calderdale,Attempted Distraction Burglary Residential,Theft offences,Domestic burglary,28H,0,0,1,0,0,0,0
+West Yorkshire,Calderdale,Burglary in a dwelling(outcome only),Theft offences,Domestic burglary,28A,612,779,0,0,0,0,0
+West Yorkshire,Calderdale,Burglary Residential,Theft offences,Domestic burglary,28E,0,0,1258,1045,888,500,522
+West Yorkshire,Calderdale,Distraction burglary in a dwelling (outcome only),Theft offences,Domestic burglary,28C,6,9,0,0,0,0,0
+West Yorkshire,Calderdale,Distraction Burglary Residential,Theft offences,Domestic burglary,28G,0,0,9,9,6,3,4
+West Yorkshire,Calderdale,Aggravated Burglary Business and Community,Theft offences,Non-domestic burglary,31A,0,0,0,2,0,1,0
+West Yorkshire,Calderdale,Aggravated burglary in a building other than a dwelling(outcome only),Theft offences,Non-domestic burglary,31,0,2,0,0,0,0,0
+West Yorkshire,Calderdale,Attempted Burglary Business and Community,Theft offences,Non-domestic burglary,30D,0,0,126,103,98,64,63
+West Yorkshire,Calderdale,Attempted burglary in a building other than a dwelling (outcome only),Theft offences,Non-domestic burglary,30B,213,208,0,0,0,0,0
+West Yorkshire,Calderdale,Burglary Business and Community,Theft offences,Non-domestic burglary,30C,0,0,602,495,545,249,285
+West Yorkshire,Calderdale,Burglary in a building other than a dwelling (outcome only),Theft offences,Non-domestic burglary,30A,1043,1084,0,0,0,0,0
+West Yorkshire,Calderdale,Blackmail,Theft offences,Other theft offences,35,22,33,28,59,53,77,95
+West Yorkshire,Calderdale,Dishonest use of electricity,Theft offences,Other theft offences,43,19,23,18,13,34,26,31
+West Yorkshire,Calderdale,Making off without payment,Theft offences,Other theft offences,49A,508,582,355,289,252,223,191
+West Yorkshire,Calderdale,Other theft,Theft offences,Other theft offences,49,1507,1378,1449,1563,1261,897,992
+West Yorkshire,Calderdale,Theft by an employee,Theft offences,Other theft offences,41,45,42,47,39,46,13,24
+West Yorkshire,Calderdale,Theft from automatic machine or meter,Theft offences,Other theft offences,47,13,11,12,9,5,0,4
+West Yorkshire,Calderdale,Theft in a dwelling other than from an automatic machine or meter,Theft offences,Other theft offences,40,293,293,297,321,277,204,222
+West Yorkshire,Calderdale,Theft of mail,Theft offences,Other theft offences,42,0,2,1,2,1,6,30
+West Yorkshire,Calderdale,Shoplifting,Theft offences,Shoplifting,46,1120,1252,1478,1441,1299,754,875
+West Yorkshire,Calderdale,Theft from vehicle,Theft offences,Theft from a vehicle,45,1092,1389,1137,973,931,487,523
+West Yorkshire,Calderdale,Theft from the person,Theft offences,Theft from the person,39,234,260,284,282,251,110,151
+West Yorkshire,Calderdale,Aggravated vehicle taking,Theft offences,Theft of a motor vehicle,37.2,37,46,35,40,33,34,36
+West Yorkshire,Calderdale,Theft or unauthorised taking of motor vehicle,Theft offences,Theft of a motor vehicle,48,494,461,387,445,389,338,423
+West Yorkshire,Calderdale,Interfering with a motor vehicle,Theft offences,Vehicle interference,126,282,377,376,372,286,158,205
+West Yorkshire,Calderdale,Causing death by aggravated vehicle taking,Violence against the person,Death or serious injury - unlawful driving,37.1,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Causing death by careless driving under influence of drink or drugs,Violence against the person,Death or serious injury - unlawful driving,4.6,0,0,0,0,0,1,0
+West Yorkshire,Calderdale,Causing death by careless or inconsiderate driving,Violence against the person,Death or serious injury - unlawful driving,4.8,0,1,0,0,0,0,0
+West Yorkshire,Calderdale,Causing death by driving: unlicensed or disqualified or uninsured drivers,Violence against the person,Death or serious injury - unlawful driving,4.9,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Causing death or serious injury by dangerous driving,Violence against the person,Death or serious injury - unlawful driving,4.4,2,5,2,0,7,5,5
+West Yorkshire,Calderdale,Corporate manslaughter,Violence against the person,Homicide,4.1,0,0,1,1,1,0,0
+West Yorkshire,Calderdale,Infanticide,Violence against the person,Homicide,4.2,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Manslaughter,Violence against the person,Homicide,4.1,0,0,1,1,1,0,0
+West Yorkshire,Calderdale,Murder,Violence against the person,Homicide,1,0,0,3,2,2,2,4
+West Yorkshire,Calderdale,Malicious Communications,Violence against the person,Stalking and harassment,8R,0,0,1073,1584,1681,1836,1911
+West Yorkshire,Calderdale,Harassment,Violence against the person,Stalking and harassment,8L,912,1454,589,1477,1717,1475,1951
+West Yorkshire,Calderdale,Stalking,Violence against the person,Stalking and harassment,8Q,10,12,54,96,128,498,621
+West Yorkshire,Calderdale,Controlling and coercive behaviour,Violence against the person,Stalking and harassment,8U,0,0,0,0,0,216,245
+West Yorkshire,Calderdale,Racially or religiously aggravated harassment,Violence against the person,Stalking and harassment,8M,18,16,10,23,26,33,40
+West Yorkshire,Calderdale,Assault with injury,Violence against the person,Violence with injury,8N,1532,1856,2146,2624,2300,1844,2359
+West Yorkshire,Calderdale,Assault with intent to cause serious harm,Violence against the person,Violence with injury,5D,66,93,162,201,191,164,207
+West Yorkshire,Calderdale,Assault with injury on a constable,Violence against the person,Violence with injury,8S,0,0,34,50,52,45,42
+West Yorkshire,Calderdale,Racially or religiously aggravated assault with injury,Violence against the person,Violence with injury,8P,15,23,13,17,11,10,19
+West Yorkshire,Calderdale,Endangering life,Violence against the person,Violence with injury,5E,3,4,18,2,5,8,7
+West Yorkshire,Calderdale,Assaults on emergency workers (other than constables),Violence against the person,Violence with injury,8T,0,0,0,0,0,3,3
+West Yorkshire,Calderdale,Attempted murder,Violence against the person,Violence with injury,2,0,0,1,0,1,1,1
+West Yorkshire,Calderdale,Causing or allowing death of child or vulnerable person,Violence against the person,Violence with injury,4.7,0,0,1,0,0,0,0
+West Yorkshire,Calderdale,Intentional destruction of a viable unborn child,Violence against the person,Violence with injury,4.3,1,0,0,0,1,0,0
+West Yorkshire,Calderdale,Assault without injury,Violence against the person,Violence without injury,105A,2061,2214,2677,3335,3131,2438,2916
+West Yorkshire,Calderdale,Assault without injury on a constable,Violence against the person,Violence without injury,104,66,68,82,126,157,164,205
+West Yorkshire,Calderdale,Child abduction,Violence against the person,Violence without injury,13,6,4,3,5,3,9,2
+West Yorkshire,Calderdale,Conspiracy to murder,Violence against the person,Violence without injury,3A,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Cruelty to children/young persons,Violence against the person,Violence without injury,11A,29,36,50,54,57,95,137
+West Yorkshire,Calderdale,Kidnapping,Violence against the person,Violence without injury,36,15,25,23,34,28,35,46
+West Yorkshire,Calderdale,Modern slavery,Violence against the person,Violence without injury,106,3,6,8,109,52,51,63
+West Yorkshire,Calderdale,Procuring illegal abortion,Violence against the person,Violence without injury,14,0,0,0,0,0,0,0
+West Yorkshire,Calderdale,Racially or religiously aggravated assault without injury,Violence against the person,Violence without injury,105B,42,28,43,38,33,51,38
+West Yorkshire,Calderdale,Threats to kill,Violence against the person,Violence without injury,3B,71,180,238,351,344,341,330
+West Yorkshire,Calderdale,All crimes,All crimes,All crimes,All codes,17697,20888,22463,25633,24404,21182,24733
